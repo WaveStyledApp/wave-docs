@@ -13,6 +13,8 @@ Notes about work down on July 30th 2022. Primarily focused on exploring github p
 
 - Will share aws login creds asap
 
+- https://ec2-54-163-183-224.compute-1.amazonaws.com/
+
 ### Next steps for Searx
 
 - I can start building the scraper

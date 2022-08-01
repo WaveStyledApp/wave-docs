@@ -1,6 +1,6 @@
 # Sitdown Summary - July 31st 2022 - Matt
 
-Notes about work down on July 31st 2022. Base code fot the image scraper. 
+Notes about work done on July 31st 2022. Base code fot the image scraper. 
 
 ## Image Scraper
 - Making it as a class so that it can be easily used by other systems. 

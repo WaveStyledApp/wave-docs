@@ -30,6 +30,5 @@ We are looking to eventually have 2 models
     - [Fashion MNIST database](https://github.com/zalandoresearch/fashion-mnist) 
     So we at least have an idea about item recognition will help gain experience for doing it with our own dataset. 
 - In terms of recommender, we just need to keep discussing and researching. 
-- Scrape function will start tomorrow. Possibly with some multithreading for downloading multiple images at once. 
-
-    
+- Scrape function will start tomorrow. Possibly with some multithreading for downloading multiple images at once. Fin
+- Figure out what Arka and Griffin can look into/work on.

@@ -11,6 +11,9 @@ Since meeetings will not happen as much as they did in Alpha phase, we can use t
 
 
 [Further model discussion based on Sanjays Jul30 notes and scraper](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Aug1-22)
+
+[Scraper work and base notes about other team members possible work](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Aug2-22)
+
 ## Sanjay Summaries
 
 [AWS, Model Thinking](https://wavestyledapp.github.io/wave-docs/Summaries/sanjay-Jul30-22)

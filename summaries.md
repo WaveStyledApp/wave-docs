@@ -14,6 +14,8 @@ Since meeetings will not happen as much as they did in Alpha phase, we can use t
 
 [Scraper work and base notes about other team members possible work](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Aug2-22)
 
+[Process function for scraper and some thoughts on object detection](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Aug4-22)
+
 ## Sanjay Summaries
 
 [AWS, Model Thinking](https://wavestyledapp.github.io/wave-docs/Summaries/sanjay-Jul30-22)

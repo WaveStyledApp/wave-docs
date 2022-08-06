@@ -16,6 +16,8 @@ Since meeetings will not happen as much as they did in Alpha phase, we can use t
 
 [Process function for scraper and some thoughts on object detection](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Aug4-22)
 
+[MNIST exploration](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Aug6-22)
+
 ## Sanjay Summaries
 
 [AWS, Model Thinking](https://wavestyledapp.github.io/wave-docs/Summaries/sanjay-Jul30-22)

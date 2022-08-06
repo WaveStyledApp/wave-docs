@@ -24,5 +24,7 @@ Notes about work done on August 5th/6th 2022. Exploring the MNIST dataset and bu
 ## Next Steps
 - Test the model thoroghly on more scraped images(maybe even on my own wardrobe)
 - Start considering how we will detect colors
+    - https://github.com/codebrainz/color-names/blob/master/output/colors.csv
+    
 
 

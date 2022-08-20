@@ -23,3 +23,5 @@ Since meeetings will not happen as much as they did in Alpha phase, we can use t
 ## Sanjay Summaries
 
 [AWS, Model Thinking](https://wavestyledapp.github.io/wave-docs/Summaries/sanjay-Jul30-22)
+
+[Is NoSQL the Way?](https://wavestyledapp.github.io/wave-docs/Summaries/sanjay-Aug20-22)

@@ -6,9 +6,7 @@ Since meeetings will not happen as much as they did in Alpha phase, we can use t
 
 [Searx, AWS, and github pages](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Jul30-22)
 
-
 [Barebones scraper code](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Jul31-22)
-
 
 [Further model discussion based on Sanjays Jul30 notes and scraper](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Aug1-22)
 
@@ -18,10 +16,10 @@ Since meeetings will not happen as much as they did in Alpha phase, we can use t
 
 [MNIST exploration](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Aug6-22)
 
-
 [Dataset and Object Detection discussion](https://wavestyled/Summaries/matt-Aug7-22)
 
 [Recommender thoughts and Scraper work](https://wavestyled/Summaries/matt-Aug8-22)
+
 ## Sanjay Summaries
 
 [AWS, Model Thinking](https://wavestyledapp.github.io/wave-docs/Summaries/sanjay-Jul30-22)

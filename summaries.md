@@ -20,6 +20,8 @@ Since meeetings will not happen as much as they did in Alpha phase, we can use t
 
 [Recommender thoughts and Scraper work](https://wavestyled/Summaries/matt-Aug8-22)
 
+[Object Detection Data Processing and Scraper Work](https://wavestyled/Summaries/matt-Aug24-22)
+
 ## Sanjay Summaries
 
 [AWS, Model Thinking](https://wavestyledapp.github.io/wave-docs/Summaries/sanjay-Jul30-22)

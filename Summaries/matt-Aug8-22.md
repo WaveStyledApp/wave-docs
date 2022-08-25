@@ -1,6 +1,7 @@
 # Recommender Moldel Thoughts
 
-Notes about work done on August 8/9th 2022. Researching some basic object recognition and possible datasets.
+Notes about work done on August 8/9
+th 2022. Researching some basic object recognition and possible datasets.
 
 ## Recommender model
 

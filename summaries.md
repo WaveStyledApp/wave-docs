@@ -22,6 +22,8 @@ Since meeetings will not happen as much as they did in Alpha phase, we can use t
 
 [Object Detection Data Processing and Scraper Work](https://wavestyled/Summaries/matt-Aug24-22)
 
+[Proxy research](https://wavestyled/Summaries/matt-Aug25-22)
+
 ## Sanjay Summaries
 
 [AWS, Model Thinking](https://wavestyledapp.github.io/wave-docs/Summaries/sanjay-Jul30-22)

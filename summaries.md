@@ -16,13 +16,13 @@ Since meeetings will not happen as much as they did in Alpha phase, we can use t
 
 [MNIST exploration](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Aug6-22)
 
-[Dataset and Object Detection discussion](https://wavestyled/Summaries/matt-Aug7-22)
+[Dataset and Object Detection discussion](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Aug7-22)
 
-[Recommender thoughts and Scraper work](https://wavestyled/Summaries/matt-Aug8-22)
+[Recommender thoughts and Scraper work](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Aug8-22)
 
-[Object Detection Data Processing and Scraper Work](https://wavestyled/Summaries/matt-Aug24-22)
+[Object Detection Data Processing and Scraper Work](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Aug24-22)
 
-[Proxy research](https://wavestyled/Summaries/matt-Aug25-22)
+[Proxy research](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Aug25-22)
 
 ## Sanjay Summaries
 

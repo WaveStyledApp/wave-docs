@@ -26,6 +26,8 @@ Since meeetings will not happen as much as they did in Alpha phase, we can use t
 
 [Scraper Cleanup](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Sep17-22)
 
+[Graph Recommender](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Sep18-22)
+
 ## Sanjay Summaries
 
 [AWS, Model Thinking](https://wavestyledapp.github.io/wave-docs/Summaries/sanjay-Jul30-22)

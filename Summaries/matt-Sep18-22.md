@@ -1,4 +1,4 @@
-# Graph Exporation
+# Graph Exploration
 
 Notes about work completed on Sep 18. Built a basic Graph ADT
 

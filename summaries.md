@@ -28,6 +28,8 @@ Since meeetings will not happen as much as they did in Alpha phase, we can use t
 
 [Graph Recommender](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Sep18-22)
 
+[Graph Discussion](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Sep19-22)
+
 ## Sanjay Summaries
 
 [AWS, Model Thinking](https://wavestyledapp.github.io/wave-docs/Summaries/sanjay-Jul30-22)

@@ -25,6 +25,15 @@ Instead of always taking the highest weight in a max path, it should probably be
 
 Say you start with a shoe and then choose a tee with a high weight between them. Then the third item should be chosen with respect to the shoes edges and the tee's edges. Cannot get my head around this part yet. 
 
+# Other Work Done
 
- 
+## Reconfiguring generateTemplates
+
+Had to change it a bit more from the old version we used in Alpha. It can definitely be refactored further and adjusted more, but good for now. It returns the indices that have been chosen instead of bit array.
+
+## Item selection
+
+Going to loop through the type we need to select. Randomly select which piece to start with. Another function will choose the item from the pool of the same type and based on the weight. 
+
+None of this is set in stone. Still exploring. 
 

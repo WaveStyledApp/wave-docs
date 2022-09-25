@@ -15,4 +15,4 @@ We can take the average of the selected items weights to the items in the next t
 
 ## Implementing this
 
-Through naive methods getting the weighted average of items isnt too complicated. My method could be cleaned up by abstracting some more things. But it is a good start. It has yet to actually be tested. Thats what the next step is..
+Through naive methods getting the weighted average of items isnt too complicated. My method could be cleaned up by abstracting some more things. But it is a good start. It has yet to actually be tested. Thats what the next step is.

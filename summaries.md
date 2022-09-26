@@ -4,8 +4,6 @@ Since meeetings will not happen as much as they did in Alpha phase, we can use t
 
 ## Matt Summaries
 
-[August Archive](https://wavestyledapp.github.io/wave-docs/Summaries/matt-August-Summaries)
-
 
 [Scraper Cleanup](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Sep17-22)
 
@@ -20,3 +18,7 @@ Since meeetings will not happen as much as they did in Alpha phase, we can use t
 [AWS, Model Thinking](https://wavestyledapp.github.io/wave-docs/Summaries/sanjay-Jul30-22)
 
 [Is NoSQL the Way?](https://wavestyledapp.github.io/wave-docs/Summaries/sanjay-Aug20-22)
+
+## Archives
+
+[August Archive](https://wavestyledapp.github.io/wave-docs/Summaries/matt-August-Summaries)

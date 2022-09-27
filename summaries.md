@@ -13,6 +13,8 @@ Since meeetings will not happen as much as they did in Alpha phase, we can use t
 
 [Graph Work](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Sep25-22)
 
+[Graph Work, Doc Changes, Minor Object Rec stuff](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Sep26-22)
+
 ## Sanjay Summaries
 
 [AWS, Model Thinking](https://wavestyledapp.github.io/wave-docs/Summaries/sanjay-Jul30-22)

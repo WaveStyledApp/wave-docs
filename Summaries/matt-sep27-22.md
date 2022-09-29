@@ -7,4 +7,4 @@ If recommender keeps moving at this progress it will not be too long until I am 
 
 The only other sizable function that needs to be implemented is the method for altering weights of edges. This might end up being the most computationally heavy one as a lot of edges will need to be addressed. 
 
-Not much else to upate one
+Not much else to upate on

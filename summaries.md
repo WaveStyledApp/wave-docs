@@ -17,6 +17,8 @@ Since meeetings will not happen as much as they did in Alpha phase, we can use t
 
 [Graph Cleanup and Maintenance](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Sep27-22)
 
+[Outfit Generation, Object annotating, and more](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Sep28-22)
+
 ## Sanjay Summaries
 
 [AWS, Model Thinking](https://wavestyledapp.github.io/wave-docs/Summaries/sanjay-Jul30-22)

@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Sitdown Summary - July 31st 2022 - Sanjay
 
 Notes on ideas and exploration done on technologies we are considering.

@@ -1,4 +1,8 @@
-## 
+
+---
+layout: default
+nav_exclude: true
+--- 
 
 # Is NoSQL the Way?
 

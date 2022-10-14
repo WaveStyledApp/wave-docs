@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Graph Work, some restructuring of docs, little bit of object stuff
 Notes about work done on Sept 26 22. Added some load and save weight functions to the graph. Also out of curiousity plotted the graph. Not a huge day for work.
 

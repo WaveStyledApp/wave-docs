@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Model stepback and testing research
 Notes about work done on sep 27 22. Reached a bit of stuck point just at the end of path generation. Going to use this opprotunity to slow down a little and introduce some unit tests into the graph.
 

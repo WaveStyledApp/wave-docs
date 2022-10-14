@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Sitdown Summary - July 30th 2022 - Matt
 
 Notes about work down on July 30th 2022. Primarily focused on exploring github pages and AWS. 

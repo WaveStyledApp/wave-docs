@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Object Detection and Dataset research + MNIST is a bust
 
 Notes about work done on August 7th 2022. Researching some basic object recognition and possible datasets.

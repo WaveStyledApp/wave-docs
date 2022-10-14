@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Continution of Model exploration
 
 Notes about work done on Sep 19 22. Picking up from where I left off on the graph code.

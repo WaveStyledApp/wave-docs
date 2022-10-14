@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # LabelImg Software and scraper setup on alternate computer
 
 Notes about the work done on Sept 17 2022. Looking into Label Image Software for curating images. I have decided to put the proxy issues to the side as I do not think it is crucial at the momment.  

@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Graph Discussion
 
 Notes about work done on Sep 19 and some responses to questions that will help outline the recommenders continued dev.

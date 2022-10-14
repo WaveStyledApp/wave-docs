@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Recommender Moldel Thoughts
 
 Notes about work done on August 8/9

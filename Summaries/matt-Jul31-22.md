@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Sitdown Summary - July 31st 2022 - Matt
 
 Notes about work done on July 31st 2022. Base code fot the image scraper. 

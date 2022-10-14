@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Further Scraper development and model disccusion
 
 Notes about work done on August 2nd 2022. Base scraping function has been implemented. Thoughts on possible work for Griffin and Arka. 

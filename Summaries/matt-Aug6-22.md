@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # MNIST fashion dataset exploration
 
 Notes about work done on August 5th/6th 2022. Exploring the MNIST dataset and building an implementation of it.

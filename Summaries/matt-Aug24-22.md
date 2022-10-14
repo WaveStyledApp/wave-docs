@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Data Processing for object detection and scraper thoughts
 
 Notes about work done on August 8/24

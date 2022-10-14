@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Scraper Development Notes
 
 Notes about work done on August 4th 2022. Adding functionality for manual curation before we look into automating it

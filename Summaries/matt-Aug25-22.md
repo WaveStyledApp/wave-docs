@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 # Proxy research
 
 Notes about work done on August 8/25th 2022. Began looking at proxies

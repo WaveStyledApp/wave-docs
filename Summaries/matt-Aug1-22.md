@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Further Scraper development and model disccusion
 
 Notes about work done on August 1st 2022. Additional work done on the scraper and comments/discussion based on Sanjay's model notes from July 30

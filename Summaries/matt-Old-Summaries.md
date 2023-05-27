@@ -1,4 +1,6 @@
-# August Sitdown Summaries
+
+
+# Sitdown Summaries Archive
 [Searx, AWS, and github pages](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Jul30-22)
 
 [Barebones scraper code](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Jul31-22)
@@ -18,3 +20,23 @@
 [Object Detection Data Processing and Scraper Work](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Aug24-22)
 
 [Proxy research](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Aug25-22)
+
+[Scraper Cleanup](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Sep17-22)
+
+[Graph Recommender](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Sep18-22)
+
+[Graph Discussion](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Sep19-22)
+
+[Graph Work](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Sep25-22)
+
+[Graph Work, Doc Changes, Minor Object Rec stuff](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Sep26-22)
+
+[Graph Cleanup and Maintenance](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Sep27-22)
+
+[Outfit Generation, Object annotating, and more](https://wavestyledapp.github.io/wave-docs/Summaries/matt-Sep28-22)
+
+## Sanjay Summaries
+
+[AWS, Model Thinking](https://wavestyledapp.github.io/wave-docs/Summaries/sanjay-Jul30-22)
+
+[Is NoSQL the Way?](https://wavestyledapp.github.io/wave-docs/Summaries/sanjay-Aug20-22)

@@ -4,7 +4,7 @@ Since meeetings will not happen as much as they did in Alpha phase, we can use t
 
 ## Matt Summaries
 [Base Functionality Planning](https://wavestyledapp.github.io/wave-docs/Summaries/matt-May27-23)
-
+[Login Functionality](https://wavestyledapp.github.io/wave-docs/Summaries/matt-May28-23)
 
 
 ## Archives
